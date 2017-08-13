@@ -1,0 +1,228 @@
+.html,body,main{
+    width:100%;
+    height: 100%
+}
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.main{
+    overflow: scroll;
+
+}
+.head{
+    width: 100%;
+    padding-top: 64.537%;
+    background: url("../imeage/head.jpg")no-repeat;
+    background-size: 100% auto;
+    position: relative;
+    overflow: hidden;
+}
+.main-1{
+    width: 100%;
+    padding-top: 68.4259%;
+    background: url("../imeage/main-1.jpg")no-repeat;
+    background-size: 100% auto;
+    position: relative;
+    overflow: hidden;
+}
+.main-2 {
+    width: 100%;
+    padding-top: 48.05555%;
+    background: url("../imeage/main-2.jpg")no-repeat;
+    background-size: 100% auto;
+    position: relative;
+    overflow: hidden;
+}
+.main-3{
+    width: 100%;
+    padding-top: 43.2407%;
+    background: url("../imeage/main-3.jpg")no-repeat;
+    background-size: 100% auto;
+    position: relative;
+    overflow: hidden;
+}
+.main-4{
+    width: 100%;
+    padding-top: 48.7037%;
+    background: url("../imeage/main-4.jpg")no-repeat;
+    background-size: 100% auto;
+    position: relative;
+    overflow: hidden;
+}
+.main-5
+{
+    width: 100%;
+    padding-top: 41.9444%;
+    background: url("../imeage/main-5.jpg")no-repeat;
+    background-size: 100% auto;
+    position: relative;
+    overflow: hidden;
+}
+.main-6{
+    width: 100%;
+    padding-top: 76.0185%;
+    background: url("../imeage/main-6.jpg")no-repeat;
+    background-size: 100% auto;
+    position: relative;
+    overflow: hidden;
+}
+.cmd{
+    width:8.407%;
+    top: 2.5%;
+    left:84.33% ;
+    position: absolute;
+}
+p{
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 12px;
+}
+.ico-1{
+    width:30% ;
+    top:21.2% ;
+    left: 7%;
+    position: absolute;
+
+
+
+}
+.fire{
+     width: 100%;
+     padding-top:100%;
+     background: url("../imeage/fire_default.png")no-repeat;
+     background-size: 78%;
+     background-position:top center;
+
+ }
+.scr{
+    width: 100%;
+    padding-top:100%;
+    top: 57%;
+    left: 6%;
+    text-align:center;
+    background: url("../imeage/scroll.png")no-repeat;
+    background-size: 92%;
+    z-index: 100;
+    position: absolute;
+
+}
+.ico-2{
+    width:30% ;
+    top:50% ;
+    left: 43%;
+    position: absolute;
+
+
+
+}
+
+.ico-3 {
+    width: 30%;
+    top: 9%;
+    left: 66%;
+    position: absolute;
+}
+.ico-4 {
+    width: 30%;
+    top: 20%;
+    left: 21%;
+    position: absolute;
+}
+.ico-5 {
+    width: 30%;
+    top: 4%;
+    left: 5%;
+    position: absolute;
+}
+.ico-6{
+    width: 30%;
+    top: 18%;
+    left: 51%;
+    position: absolute;
+}
+.ico-7 {
+    width: 30%;
+    top: 5%;
+    left: 66%;
+    position: absolute;
+}
+.ico-8 {
+    width: 30%;
+    top: 30%;
+    left: 4%;
+    position: absolute;
+}
+.ico-9 {
+    width: 30%;
+    top: 7%;
+    left: 42%;
+    position: absolute;
+}
+.fire-fire{
+    width: 100%;
+    padding-top:100%;
+    background:url("../imeage/fire_fired.png")no-repeat;
+    background-size: 96%;
+    background-position:0 center;
+}
+.ico-10{
+    width: 30%;
+    top: 0;
+    left: 65%;
+    position: absolute;
+}
+.com{
+    width: 30%;
+    top:48%;
+    left: 43%;
+    position: absolute;
+}
+.price{
+    width: 100%;
+    padding: 100%;
+    background: url("../imeage/price.png")no-repeat top center;
+    background-size: 23%;
+}
+.foot{
+    width: 100%;
+    height: 10.51%;
+    bottom: 0;
+    left: 0;
+    background-color: #a22320;
+    position:fixed;
+    z-index: 110;
+    overflow: hidden;
+}
+.but-1{
+    width: 100%;
+    padding-top: 27.615%;
+    background: url("../imeage/button-draw.png")no-repeat;
+    background-size: 46%;
+    margin: 2% 50% 2% 2%;
+    position:absolute;
+    z-index: 120;
+    float: left;
+}
+.but-2{
+    width: 100%;
+    padding-top: 27.615%;
+    background: url("../imeage/button-rec.png")no-repeat;
+    background-size: 46%;
+    margin: 2% 2% 2% 50%;
+    position:absolute;
+    z-index: 120;
+    float: left;
+}
+.span{
+    width:100%;
+    height: 100%;
+    margin:2% 2% 50% 2%;
+    float: left;
+}
+
+
+
+
